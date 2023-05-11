@@ -1,5 +1,5 @@
 # Mario Game
-Mario Game est un jeu qui utilise Node.js et le module Canvas pour recréer l'expérience classique du jeu Mario Bros. Les joueurs peuvent contrôler Mario en utilisant les touches fléchées du clavier pour sauter et se déplacer, tandis que les ennemis et les obstacles s'approchent de plus en plus rapidement.
+Mario Game est un jeu qui utilise Node.js et le module Canvas pour recréer l'expérience classique du jeu Mario Bros. Les joueurs peuvent contrôler Mario en utilisant les touches du clavier pour sauter et se déplacer.
 
 ## Installation
 Pour installer le jeu, assurez-vous d'avoir Node.js installé sur votre ordinateur. Vous pouvez cloner le repository à l'aide de la commande suivante dans votre terminal :
