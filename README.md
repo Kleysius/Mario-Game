@@ -4,7 +4,7 @@ Mario Game est un jeu qui utilise Node.js et le module Canvas pour recréer l'ex
 ## Installation
 Pour installer le jeu, assurez-vous d'avoir Node.js installé sur votre ordinateur. Vous pouvez cloner le repository à l'aide de la commande suivante dans votre terminal :
 
-git clone https://github.com/votre-nom-utilisateur/mario-game.git
+git clone [https://github.com/Kleysius/Mario-Game.git]
 
 Ensuite, accédez au répertoire du jeu et installez les dépendances en utilisant la commande :
 
