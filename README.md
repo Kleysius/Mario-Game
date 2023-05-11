@@ -8,12 +8,16 @@ git clone [https://github.com/Kleysius/Mario-Game.git]
 
 Ensuite, accédez au répertoire du jeu et installez les dépendances en utilisant la commande :
 
-npm install
+```bash
+  npm install
+```
 
 ## Démarrage
 Une fois que les dépendances sont installées, vous pouvez démarrer le jeu en utilisant la commande :
 
-npm start
+```bash
+  npm start
+```
 
 Le jeu sera alors accessible à l'adresse suivante : http://localhost:3000.
 
